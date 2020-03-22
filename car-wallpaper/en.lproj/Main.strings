@@ -1,0 +1,234 @@
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "03X-d3-wof"; */
+"03X-d3-wof.text" = "Aston Martin";
+
+/* Class = "UITableViewSection"; headerTitle = "C"; ObjectID = "1RL-gx-2O0"; */
+"1RL-gx-2O0.headerTitle" = "C";
+
+/* Class = "UIBarButtonItem"; title = "Preview"; ObjectID = "1ez-DU-oex"; */
+"1ez-DU-oex.title" = "Preview";
+
+/* Class = "UILabel"; text = "DBS Superleggera"; ObjectID = "2Ff-5O-jPU"; */
+"2Ff-5O-jPU.text" = "DBS Superleggera";
+
+/* Class = "UILabel"; text = "Lamborghini"; ObjectID = "2N9-kp-zsn"; */
+"2N9-kp-zsn.text" = "Lamborghini";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "31Y-iJ-naT"; */
+"31Y-iJ-naT.title" = "Favorite";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "3NB-cg-7bm"; */
+"3NB-cg-7bm.title" = "Back";
+
+/* Class = "UILabel"; text = "Chiron Pur Sport"; ObjectID = "3i0-2J-ICO"; */
+"3i0-2J-ICO.text" = "Chiron Pur Sport";
+
+/* Class = "UINavigationItem"; title = "McLaren 765LT"; ObjectID = "4vb-aO-IJU"; */
+"4vb-aO-IJU.title" = "McLaren 765LT";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "667-Ty-uzk"; */
+"667-Ty-uzk.title" = "Favorite";
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "7Mj-XB-wUb"; */
+"7Mj-XB-wUb.text" = "Aston Martin";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "7fq-og-L0b"; */
+"7fq-og-L0b.title" = "Share";
+
+/* Class = "UILabel"; text = "Vantage Roadster"; ObjectID = "9Lf-q3-Uea"; */
+"9Lf-q3-Uea.text" = "Vantage Roadster";
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "9zs-NT-x5C"; */
+"9zs-NT-x5C.text" = "Aston Martin";
+
+/* Class = "UITableViewSection"; headerTitle = "F"; ObjectID = "ARy-0g-AE5"; */
+"ARy-0g-AE5.headerTitle" = "F";
+
+/* Class = "UIViewController"; title = "New-Single"; ObjectID = "BRj-Qz-hXL"; */
+"BRj-Qz-hXL.title" = "New-Single";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Bx2-tm-I0u"; */
+"Bx2-tm-I0u.title" = "Back";
+
+/* Class = "UITableViewController"; title = "New-List"; ObjectID = "CLe-73-jfO"; */
+"CLe-73-jfO.title" = "New-List";
+
+/* Class = "UIViewController"; title = "Photo"; ObjectID = "CNY-Sz-hH8"; */
+"CNY-Sz-hH8.title" = "Photo";
+
+/* Class = "UILabel"; text = "Alert"; ObjectID = "CYr-Ow-0uW"; */
+"CYr-Ow-0uW.text" = "Alert";
+
+/* Class = "UILabel"; text = "DB11 V8"; ObjectID = "F9a-2D-PLV"; */
+"F9a-2D-PLV.text" = "DB11 V8";
+
+/* Class = "UIViewController"; title = "Preview"; ObjectID = "G6S-7u-Snk"; */
+"G6S-7u-Snk.title" = "Preview";
+
+/* Class = "UINavigationItem"; title = "New"; ObjectID = "G8P-CH-0qi"; */
+"G8P-CH-0qi.title" = "New";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "GfE-B9-wWE"; */
+"GfE-B9-wWE.title" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Gq3-Hn-hfp"; */
+"Gq3-Hn-hfp.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "HUu-6S-oef"; */
+"HUu-6S-oef.title" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "J6X-JJ-nBU"; */
+"J6X-JJ-nBU.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "KNL-yf-Jpl"; */
+"KNL-yf-Jpl.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Kwl-R0-lDr"; */
+"Kwl-R0-lDr.title" = "Back";
+
+/* Class = "UITableViewSection"; headerTitle = "A"; ObjectID = "MJa-Oc-dNs"; */
+"MJa-Oc-dNs.headerTitle" = "A";
+
+/* Class = "UIBarButtonItem"; title = "Preview"; ObjectID = "Ma6-lA-Xvy"; */
+"Ma6-lA-Xvy.title" = "Preview";
+
+/* Class = "UILabel"; text = "Vantage AMR"; ObjectID = "Nks-cu-PvW"; */
+"Nks-cu-PvW.text" = "Vantage AMR";
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "ODS-jg-dG1"; */
+"ODS-jg-dG1.text" = "Aston Martin";
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "ONW-zZ-nec"; */
+"ONW-zZ-nec.text" = "Aston Martin";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "Pa0-nE-3iu"; */
+"Pa0-nE-3iu.title" = "Favorite";
+
+/* Class = "UINavigationItem"; title = "Aston Martin"; ObjectID = "QCa-SR-wgx"; */
+"QCa-SR-wgx.title" = "Aston Martin";
+
+/* Class = "UIViewController"; title = "New-Single"; ObjectID = "R5a-e5-MXY"; */
+"R5a-e5-MXY.title" = "New-Single";
+
+/* Class = "UILabel"; text = "F8 Spider"; ObjectID = "SFM-ve-6rL"; */
+"SFM-ve-6rL.text" = "F8 Spider";
+
+/* Class = "UINavigationItem"; title = "Aston Martin Vantage Roadster"; ObjectID = "SU7-nw-Jgh"; */
+"SU7-nw-Jgh.title" = "Aston Martin Vantage Roadster";
+
+/* Class = "UILabel"; text = "911 Turbo S"; ObjectID = "Sz0-Uh-79e"; */
+"Sz0-Uh-79e.text" = "911 Turbo S";
+
+/* Class = "UILabel"; text = "McLaren"; ObjectID = "TAf-D4-SFQ"; */
+"TAf-D4-SFQ.text" = "McLaren";
+
+/* Class = "UILabel"; text = "DBX"; ObjectID = "VTf-JL-tJ8"; */
+"VTf-JL-tJ8.text" = "DBX";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "Vpx-Su-aAg"; */
+"Vpx-Su-aAg.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Koenigsegg"; ObjectID = "WYg-bJ-w5N"; */
+"WYg-bJ-w5N.text" = "Koenigsegg";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "WgA-X6-OKL"; */
+"WgA-X6-OKL.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Ferrari"; ObjectID = "XvD-dT-5UQ"; */
+"XvD-dT-5UQ.text" = "Ferrari";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "YNZ-GF-SLo"; */
+"YNZ-GF-SLo.title" = "Setting";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Ypi-TL-cH7"; */
+"Ypi-TL-cH7.title" = "Back";
+
+/* Class = "UITableViewSection"; headerTitle = "B"; ObjectID = "Zhn-fn-UmS"; */
+"Zhn-fn-UmS.headerTitle" = "B";
+
+/* Class = "UITableViewController"; title = "Favorites"; ObjectID = "aI3-cZ-Acw"; */
+"aI3-cZ-Acw.title" = "Favorites";
+
+/* Class = "UINavigationItem"; title = "Aston Martin"; ObjectID = "bhW-J9-Xta"; */
+"bhW-J9-Xta.title" = "Aston Martin";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "bwc-xT-fP3"; */
+"bwc-xT-fP3.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Preview"; ObjectID = "cLT-1G-ygw"; */
+"cLT-1G-ygw.title" = "Preview";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "dT9-oI-geX"; */
+"dT9-oI-geX.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Aston Martin DBX"; ObjectID = "e5F-gE-9qo"; */
+"e5F-gE-9qo.title" = "Aston Martin DBX";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "enG-xP-PEX"; */
+"enG-xP-PEX.title" = "Back";
+
+/* Class = "UILabel"; text = "Vantage Roadster"; ObjectID = "hTY-yu-SfQ"; */
+"hTY-yu-SfQ.text" = "Vantage Roadster";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "irG-GY-IZK"; */
+"irG-GY-IZK.title" = "Share";
+
+/* Class = "UINavigationItem"; title = "Porsche 911 Carrera 4S"; ObjectID = "iyS-sM-iUa"; */
+"iyS-sM-iUa.title" = "Porsche 911 Carrera 4S";
+
+/* Class = "UINavigationItem"; title = "Brands"; ObjectID = "kdN-nE-TKe"; */
+"kdN-nE-TKe.title" = "Brands";
+
+/* Class = "UILabel"; text = "765LT"; ObjectID = "oww-Fg-4d8"; */
+"oww-Fg-4d8.text" = "765LT";
+
+/* Class = "UIViewController"; title = "New-Single"; ObjectID = "qKp-9A-VRG"; */
+"qKp-9A-VRG.title" = "New-Single";
+
+/* Class = "UILabel"; text = "F-Type R Coupe"; ObjectID = "qgj-7K-i1X"; */
+"qgj-7K-i1X.text" = "F-Type R Coupe";
+
+/* Class = "UILabel"; text = "Aventador SVJ Roadster"; ObjectID = "qoE-dk-0WC"; */
+"qoE-dk-0WC.text" = "Aventador SVJ Roadster";
+
+/* Class = "UIBarButtonItem"; title = "Preview"; ObjectID = "r7e-4a-TfI"; */
+"r7e-4a-TfI.title" = "Preview";
+
+/* Class = "UITableViewController"; title = "Models Thumb"; ObjectID = "sLA-5T-GqI"; */
+"sLA-5T-GqI.title" = "Models Thumb";
+
+/* Class = "UITableViewController"; title = "Models-List"; ObjectID = "sap-GD-1hK"; */
+"sap-GD-1hK.title" = "Models-List";
+
+/* Class = "UILabel"; text = "Bugatti"; ObjectID = "spX-ss-QXz"; */
+"spX-ss-QXz.text" = "Bugatti";
+
+/* Class = "UILabel"; text = "Jesko"; ObjectID = "v5x-bP-qHz"; */
+"v5x-bP-qHz.text" = "Jesko";
+
+/* Class = "UILabel"; text = "Aston Martin"; ObjectID = "v8G-ix-5FX"; */
+"v8G-ix-5FX.text" = "Aston Martin";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "vyX-y1-6I9"; */
+"vyX-y1-6I9.title" = "Back";
+
+/* Class = "UITableViewController"; title = "Brands-List"; ObjectID = "wJJ-43-Uwx"; */
+"wJJ-43-Uwx.title" = "Brands-List";
+
+/* Class = "UILabel"; text = "Porsche"; ObjectID = "wPB-Bc-mJV"; */
+"wPB-Bc-mJV.text" = "Porsche";
+
+/* Class = "UILabel"; text = "Jaguar"; ObjectID = "xWG-Ke-CiR"; */
+"xWG-Ke-CiR.text" = "Jaguar";
+
+/* Class = "UITabBarItem"; title = "New"; ObjectID = "xeL-F8-qld"; */
+"xeL-F8-qld.title" = "New";
+
+/* Class = "UITabBarItem"; title = "Brands"; ObjectID = "xok-Pp-ZHa"; */
+"xok-Pp-ZHa.title" = "Brands";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "zlU-dC-RN1"; */
+"zlU-dC-RN1.title" = "Favorite";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "ztP-x9-p9Z"; */
+"ztP-x9-p9Z.title" = "Back";
